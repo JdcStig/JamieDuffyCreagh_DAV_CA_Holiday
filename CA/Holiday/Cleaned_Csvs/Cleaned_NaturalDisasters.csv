@@ -1,0 +1,157 @@
+country,Disaster_Count,Median_Severity,Max_Severity,Unique_Days_Under_Threat
+Afghanistan,6,0.5,1.0,22
+Albania,1,0.0,0.0,7
+Algeria,5,0.25,1.0,8
+Angola,2,1.0,1.0,11
+Argentina,4,0.5,1.0,62
+Armenia,2,0.5,1.0,6
+Australia,8,0.25,0.5,27
+Austria,2,0.0,0.0,9
+Bangladesh,8,0.625,1.0,61
+Barbados,1,0.25,0.25,2
+Belarus,1,0.25,0.25,4
+Belgium,3,0.0,0.5,14
+Benin,2,0.125,0.25,2
+Bolivia (Plurinational State of),6,0.5,1.0,316
+Bosnia and Herzegovina,2,0.625,1.0,8
+Botswana,1,1.0,1.0,306
+Brazil,18,0.5,1.0,311
+Bulgaria,4,0.125,0.5,14
+Burkina Faso,2,0.25,0.5,46
+Burundi,2,0.375,0.5,76
+Cabo Verde,1,1.0,1.0,47
+Cambodia,1,1.0,1.0,3
+Cameroon,5,0.25,1.0,7
+Canada,5,0.25,1.0,19
+Central African Republic,1,0.5,0.5,2
+Chad,1,0.25,0.25,1
+Chile,5,1.0,1.0,51
+China,29,0.25,1.0,365
+"China, Hong Kong Special Administrative Region",3,0.25,0.25,7
+Colombia,5,0.25,1.0,37
+Congo,3,1.0,1.0,46
+Costa Rica,1,1.0,1.0,46
+Croatia,3,0.25,0.5,13
+Cuba,3,0.0,1.0,6
+Cyprus,1,0.0,0.0,7
+Czechia,2,0.0,0.0,8
+Côte d’Ivoire,1,0.0,0.0,1
+Democratic Republic of the Congo,8,0.125,1.0,70
+Denmark,1,0.0,0.0,7
+Dominican Republic,4,1.0,1.0,15
+Ecuador,4,1.0,1.0,121
+Egypt,1,0.25,0.25,1
+El Salvador,2,0.125,0.25,5
+Equatorial Guinea,1,0.25,0.25,73
+Estonia,1,0.0,0.0,7
+Ethiopia,2,1.0,1.0,54
+Fiji,1,1.0,1.0,2
+Finland,1,0.0,0.0,7
+France,9,0.25,1.0,21
+Gabon,2,0.375,0.5,3
+Georgia,2,0.5,1.0,3
+Germany,4,0.0,0.0,15
+Ghana,2,0.625,1.0,13
+Greece,7,0.25,1.0,29
+Guam,1,1.0,1.0,2
+Guatemala,3,1.0,1.0,12
+Guinea,2,1.0,1.0,7
+Guinea-Bissau,1,0.5,0.5,1
+Haiti,2,0.5,1.0,7
+Honduras,4,0.625,1.0,307
+Hungary,1,0.0,0.0,7
+Iceland,2,0.25,0.5,62
+India,25,0.25,1.0,104
+Indonesia,18,0.5,1.0,315
+Iran (Islamic Republic of),9,0.5,1.0,20
+Iraq,3,0.25,0.25,7
+Ireland,1,0.0,0.0,7
+Italy,13,0.0,1.0,306
+Japan,7,0.25,0.5,17
+Jordan,1,0.5,0.5,20
+Kazakhstan,1,0.25,0.25,8
+Kenya,5,1.0,1.0,16
+Kyrgyzstan,1,0.5,0.5,46
+Lao People's Democratic Republic,1,1.0,1.0,49
+Latvia,2,0.125,0.25,11
+Lebanon,1,1.0,1.0,7
+Lesotho,2,0.625,1.0,313
+Liberia,2,0.625,1.0,5
+Libya,2,0.5,1.0,3
+Liechtenstein,1,0.0,0.0,7
+Lithuania,1,0.0,0.0,7
+Luxembourg,1,0.0,0.0,7
+Madagascar,4,0.625,1.0,20
+Malawi,2,0.5,1.0,4
+Malaysia,6,1.0,1.0,56
+Maldives,1,0.25,0.25,46
+Mali,2,0.375,0.5,47
+Malta,1,0.0,0.0,7
+Mauritania,1,0.5,0.5,2
+Mauritius,1,0.5,0.5,2
+Mexico,9,0.25,1.0,12
+Micronesia (Federated States of),1,1.0,1.0,306
+Mongolia,4,0.75,1.0,20
+Montenegro,1,0.0,0.0,7
+Morocco,4,0.125,1.0,4
+Mozambique,4,1.0,1.0,312
+Myanmar,6,0.75,1.0,15
+Namibia,1,0.5,0.5,5
+Nepal,5,0.5,1.0,53
+Netherlands (Kingdom of the),2,0.0,0.0,8
+New Zealand,3,0.5,1.0,16
+Nicaragua,1,0.25,0.25,1
+Niger,1,1.0,1.0,5
+Nigeria,12,0.0,1.0,242
+Norway,1,0.0,0.0,7
+Pakistan,18,0.25,1.0,118
+Panama,1,0.25,0.25,1
+Papua New Guinea,1,1.0,1.0,1
+Paraguay,2,0.75,1.0,21
+Peru,13,0.25,1.0,98
+Philippines,19,1.0,1.0,120
+Poland,1,0.0,0.0,7
+Portugal,2,0.25,0.5,12
+Republic of Korea,4,0.25,1.0,11
+Republic of Moldova,1,0.25,0.25,3
+Romania,3,0.0,0.0,11
+Russian Federation,5,0.25,1.0,12
+Rwanda,2,0.5,1.0,4
+Réunion,1,1.0,1.0,1
+Saint Vincent and the Grenadines,1,0.25,0.25,2
+Saudi Arabia,1,0.25,0.25,1
+Senegal,3,0.0,0.25,4
+Serbia,5,0.25,1.0,27
+Seychelles,1,0.25,0.25,1
+Sierra Leone,1,0.25,0.25,5
+Slovakia,2,0.0,0.0,7
+Slovenia,3,0.5,1.0,9
+Solomon Islands,1,1.0,1.0,2
+Somalia,6,1.0,1.0,99
+South Africa,12,0.25,0.5,36
+South Sudan,1,0.25,0.25,17
+Spain,7,0.0,1.0,306
+Sri Lanka,5,0.5,1.0,49
+Suriname,1,0.0,0.0,1
+Sweden,1,0.0,0.0,7
+Switzerland,3,0.0,1.0,11
+Syrian Arab Republic,7,0.5,1.0,306
+Taiwan (Province of China),3,0.25,0.25,5
+Tajikistan,2,0.25,0.5,5
+Thailand,5,0.5,1.0,11
+Tunisia,5,0.25,0.25,7
+Türkiye,8,0.25,1.0,15
+Uganda,4,0.0,0.5,28
+Ukraine,3,0.25,0.5,4
+United Arab Emirates,1,0.25,0.25,1
+United Kingdom of Great Britain and Northern Ireland,2,0.0,0.0,9
+United Republic of Tanzania,4,0.5,1.0,53
+United States of America,25,0.25,0.5,216
+Uruguay,3,0.5,1.0,314
+Uzbekistan,1,0.25,0.25,2
+Vanuatu,3,1.0,1.0,7
+Venezuela (Bolivarian Republic of),2,0.25,0.25,6
+Viet Nam,7,0.5,1.0,18
+Yemen,4,0.25,1.0,10
+Zambia,6,0.625,1.0,60
+Zimbabwe,2,0.25,0.5,139
